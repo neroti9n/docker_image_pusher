@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # memos
 neosmemo/memos
+# dolphinscheduler
+pache/dolphinscheduler-standalone-server:3.1.5
