@@ -8,3 +8,5 @@ xhofe/alist:latest
 neosmemo/memos
 # dolphinscheduler
 apache/dolphinscheduler-standalone-server:3.1.5
+# focalboard
+mattermost/focalboard
