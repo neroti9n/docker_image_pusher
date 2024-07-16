@@ -9,4 +9,4 @@ neosmemo/memos
 # dolphinscheduler
 apache/dolphinscheduler-standalone-server:3.1.5
 # focalboard
-# mattermost/focalboard:latest
+mattermost/focalboard:latest
