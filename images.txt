@@ -11,4 +11,4 @@ apache/dolphinscheduler-standalone-server:3.1.5
 # focalboard
 mattermost/focalboard:latest
 # codex-docs
-ghcr.io/codex-team/codex.docs:v2
+# ghcr.io/codex-team/codex.docs:v2
